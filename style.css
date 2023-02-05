@@ -367,7 +367,7 @@ nav .fas{
 }
 
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:950px){
     #header{
         background-image: url(images/smbg.png);
     }
